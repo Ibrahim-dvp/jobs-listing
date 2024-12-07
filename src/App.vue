@@ -1,9 +1,9 @@
 <template>
-	<h2 class="text-red-300">Testing...</h2>
+	<Navbar />
+	<RouterView />
 </template>
 
 <script setup>
-import { ref } from "vue";
-
-const test = ref("gei");
+import Navbar from "@/components/Navbar.vue";
+import { RouterView } from "vue-router";
 </script>
