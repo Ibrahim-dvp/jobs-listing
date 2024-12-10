@@ -83,6 +83,34 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "type": "Remote",
+      "title": "Laravel",
+      "description": "Quia fuga Dignissim",
+      "salary": "$100K - $125K",
+      "location": "Saepe nihil eveniet",
+      "company": {
+        "name": "Weeks and Mckay Plc",
+        "description": "Voluptate voluptatum",
+        "contactEmail": "sapymudyg@mailinator.com",
+        "contactPhone": "+1 (556) 373-9953"
+      },
+      "id": "0c05"
+    },
+    {
+      "id": "dcfa",
+      "type": "Remote",
+      "title": "Gretchen Price",
+      "description": "Aut non quia quis su",
+      "salary": "Under $50K",
+      "location": "Consequatur ut repr",
+      "company": {
+        "name": "Harris and Howe Trading",
+        "description": "Dolorem commodi et r",
+        "contactEmail": "luracyg@mailinator.com",
+        "contactPhone": "+1 (106) 395-9031"
+      }
     }
   ]
 }
